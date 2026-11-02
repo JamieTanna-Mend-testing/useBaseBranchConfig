@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "baseBranchPatterns": ["main", "release/1.x", "release/2.x"],
+  "useBaseBranchConfig": "merge"
+}
